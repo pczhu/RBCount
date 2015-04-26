@@ -201,13 +201,21 @@ public class RushBuyCountDownTimerView extends LinearLayout {
 
 	}
 
-	public void setTime(long d, boolean isPositive) {
+	public void setTime(long dtime, boolean isPositive) {
 		// d/(3600 *24)+"天"+d%(3600 *24)/3600 +"小时"+d%(3600
 		// *24)%3600/60+"分钟"+d%(3600 *24)%3600%60+"秒"
+		long d = (dtime)/1000;
+		if(d<0){
+			d = 0-d;
+		}
 		int daytime = (int) (d / (3600 * 24));
 		int hour = (int) (d % (3600 * 24) / 3600);
 		int minite = (int) (d % (3600 * 24) % 3600 / 60);
 		int second = (int) (d % (3600 * 24) % 3600 % 60);
+		
+		//System.out.println(d/(3600 *24)+"天"+d%(3600 *24)/3600 +"小时"+d%(3600 *24)%3600/60+"分钟"+d%(3600 *24)%3600%60+"秒");
+		
+		
 		setTime(daytime, hour, minite, second, isPositive);
 
 	}
