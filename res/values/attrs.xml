@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NumberProgressBar">
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CustomEditText">
+        <attr name="dismissHintOnFocus" format="boolean"></attr>
+    </declare-styleable>
+</resources>

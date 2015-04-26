@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 基本色 -->
+    <color name="bg_title">#CC0000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="green_dark">#9CDC6A</color>
+    <color name="blue">#33B5E5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_light">#E5FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="gray_light">#887c7c7c</color>
+    <color name="gray_dark">#2e2e2e</color>
+    <color name="yellow">#FFFC00</color>
+    <color name="pink">#FF87EF</color>
+    <color name="orange">#ff6200</color>
+    <!-- RRT 全局统一色 -->
+    <color name="rrt_bg">#f3f6f9</color>
+    <color name="rrt_title_background">#ffcc0000</color>
+    <color name="rrt_title_textcolor">#ffffffff</color>
+   
+    
+    <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& -->
+	<!-- fragment_main -->
+	<color name="fragment_index_net_disconnect_bg">#99000000</color>
+	<color name="fragment_index_projectlist_textcolor_gray">#999999</color>
+	<color name="fragment_index_projectlist_textcolor_orange">#ff6633</color>
+	<color name="fragment_index_projectlist_textcolor_blue">@color/blue</color>
+	<color name="item_fragment_main_item_quickgetpanel_textColor">#999999</color>
+	<!-- 秒杀背景色 -->
+	<color name="item_fragment_main_projectinfo_btn_bg_color">#FFCC66</color>
+	<color name="item_fragment_main_projectinfo_btn_txtcolor">#ffffff</color>
+	<color name="item_fragment_main_projectinfo_text_txtcolor">#333333</color>
+	<color name="item_fragment_main_projectinfo_bg_stroke">#E3E6E9</color>
+	<!-- 自定义倒计时控件 view_counttimer - RushBuyCountDownTimerView -->
+	<color name="view_counttimer_color">#4F4242</color>
+	<color name="view_counttimer_bg_color">@color/white</color>
+	<drawable name="transparent_background">#00000000</drawable>
+	
+	<color name="rd_activity_lead_bg_color_normal">#ffffff</color>
+	<color name="rd_activity_lead_bg_color_press">#ff6633</color>
+	<color name="rd_activity_lead_bg_txt_color_normal">#ffffff</color>
+	<color name="rd_activity_lead_bg_txt_color_press">#ff6633</color>
+	<color name="rd_activity_lead_bg_stoken_color">#ff6633</color>
+	
+	<color name="rd_activity_lead_background">#f6f6f6</color>
+	 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& -->
+	 
+	  <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& -->
+	
+	<!--================================================================-->
+	
+	<color name="projectdetails_public_backgroung">#F3F6F9</color>
+	<color name="projectdetails_public_oneline">#E3E6E9</color>
+	<color name="projectdetails_public_three_textcolor">#333333</color>
+	<color name="projectdetails_public_six_textcolor">#666666</color>
+	<color name="projectdetails_public_theme_color">#FF6633</color>
+	
+	
+	<color name="projectdetails_subscrip_imageview">#33333333</color>
+	
+	<!-- 已有店铺 -->
+	<color name="projectdetails_shopdetails_item_backbround">#FF9966</color>
+	<!-- 预算与退出机制 -->
+	<color name="projectdetails_budget_item_backbround">#F3F6F9</color>
+	<!--================================================================-->
+</resources>

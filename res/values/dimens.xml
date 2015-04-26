@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RRT标题尺寸 -->
+    <dimen name="rrt_title_layout_height">44dp</dimen>
+    <dimen name="rrt_title_textsize">20sp</dimen>
+    
+    
+    <!-- frgment_main 尺寸 -->
+	    <!-- fragment_index_net_disconnect 断网显示界面-->
+	    <dimen name="fragment_index_net_disconnect_textsize">16sp</dimen>
+	    <dimen name="fragment_index_net_disconnect_layout_height">44dp</dimen>
+	    <dimen name="fragment_index_net_disconnect_drawablePadding">12dp</dimen>
+	    <dimen name="fragment_index_net_disconnect_paddingLeft">20dp</dimen>
+	    
+	    <!-- 快捷菜单面板 fragment_main_item_quickgetpanel -->
+	    <dimen name="item_fragment_main_item_quickgetpanel_paddingTop">15dp</dimen>
+	    <dimen name="item_fragment_main_item_quickgetpanel_paddingLeft">1.5dp</dimen>
+	    <dimen name="item_fragment_main_item_quickgetpanel_paddingRight">1.5dp</dimen>
+	    <dimen name="item_fragment_main_item_quickgetpanel_paddingBottom">27dp</dimen>
+	    <dimen name="item_fragment_main_item_quickgetpanel_height">99dp</dimen>
+	    <dimen name="item_fragment_main_item_quickgetpanel_drawablepadding">9dp</dimen>
+	    
+	    <dimen name="item_fragment_main_item_quickgetpanel_textSize">14sp</dimen>
+	    
+	    
+	    <!-- 抢购项目单项页面 item_fragment_main_projectinfo-->
+	    <dimen name="item_fragment_main_projectinfo_text_marginLeft">12dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_button_paddingBottom">10dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_button_paddingRight">8dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_button_paddingTop">10dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_layout_height">70dp</dimen>
+	    
+	    <!-- 抢购项目页面 item_fragment_main_projectinfo_list-->
+	    <dimen name="item_fragment_main_projectinfo_list_layout_marginBottom">9dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_layout_marginLeft">10dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_layout_marginRight">10dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_layout_layout_height">70dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_layout_layout_height2">60dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_textview_layout_marginBottom">1dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_textview_padding">6dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_linearlayout_layout_marginLeft">21dp</dimen>
+    
+	    <dimen name="item_fragment_main_projectinfo_list_item_layout_marginBottom">1dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_callpanel_layout_paddingRight">6dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_layout_paddingleft">10dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_textsize">15sp</dimen>
+	    
+	    <dimen name="item_fragment_main_projectinfo_proinfo_txtsize">14sp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_proinfo_bg_stoken_width">0.5dp</dimen>
+	    <!-- 首页数据 -->
+	    <dimen name="item_fragment_main_projectinfo_list_textviewTop_textSize">20sp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_textviewBottom_textSize">15sp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_textviewBottomTopPadding">5dp</dimen>
+	    <!-- 项目缩略图 -->
+	    <dimen name="item_fragment_main_projectinfo_imageview_width">50sp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_imageview_height">50sp</dimen>
+	    <!-- 抢购按钮 -->
+	    <dimen name="item_fragment_main_projectinfo_btn_width">84dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_btn_height">50dp</dimen>
+	    
+	    <!-- 轮播图 -->
+	    <dimen name="item_fragment_main_viewpager_height">114dp</dimen>
+	    <dimen name="item_fragment_main_viewpager_point_height">10dp</dimen>
+	    <dimen name="item_fragment_main_viewpager_point_height_marginBottom">6dp</dimen>
+	    <dimen name="item_fragment_main_viewpager_point_height_padding">3dp</dimen>
+	    <!-- 认购流程投资流程 -->
+	    <dimen name="item_fragment_main_projectinfo_list_ScrollingTextView_textSize">20sp</dimen>
+	    <dimen name="item_activity_lead_title_drawablepadding">6dp</dimen>
+	    <dimen name="item_activity_lead_title_marginleft">15dp</dimen>
+	    <dimen name="item_activity_lead_title_textsize">16sp</dimen>
+	    <dimen name="rd_activity_lead_bg_radio">5dp</dimen>
+	    <dimen name="rd_activity_lead_bg_stokenwidth">1dp</dimen>
+	    
+	    
+	    <dimen name="rd_activity_lead_layout_height">53dp</dimen>
+	    
+	    <dimen name="rd_activity_lead_paddingV">12dp</dimen>
+	    <dimen name="rd_activity_lead_paddingH">15dp</dimen>
+		<dimen name="rd_activity_rdgp_height">29dp</dimen>
+		<dimen name="rd_activity_rdgp_margin">15dp</dimen>
+	    
+	    <!-- 客服按钮 -->
+	    <dimen name="item_fragment_main_projectinfo_list_callpanel_layout_service_drawablepadding">12dp</dimen>
+	    <dimen name="item_fragment_main_projectinfo_list_callpanel_layout_service_textsize">15sp</dimen>
+    <!-- 找项目页面item -->
+    	
+	<dimen name="searchProject_frame_distance">10dp</dimen>
+	<dimen name="searchProject_inside_frame_distance">15dp</dimen>
+	<dimen name="searchProject_progress_distance">15dp</dimen>
+	<dimen name="searchProject_money_distance">16dp</dimen>
+	
+	<!--SearchActivity  -->
+	<dimen name="Search_Relative">56dp</dimen>
+	<dimen name="Search_AutoCompleteTextView_width">275dp</dimen>
+	<dimen name="Search_AutoCompleteTextView_height">33dp</dimen>
+	<dimen name="Search_AutoCompleteTextView_marginLeft">12dp</dimen>
+	<dimen name="Search_AutoCompleteTextView_Padding">8dp</dimen>
+	<dimen name="Search_TextView_marginRight">11.25dp</dimen>
+	<dimen name="Search_TextView_padding">4dp</dimen>
+	
+	<!--item_popup  -->
+	<dimen name="itemPopupWindows_textSize">16sp</dimen>
+	<dimen name="itemPopupWindows_height">36dp</dimen>
+	<dimen name="itemPopupWindows_imageView_height">0.5dp</dimen>
+    
+	<!--自定义倒计时控件 view_counnttimer -->
+	<dimen name="View_CountTimer_textSize">14sp</dimen>
+	<dimen name="View_CountTimer_marginLeft">1dp</dimen>
+	<dimen name="View_CountTimer_bg_padding">1dp</dimen>
+	<dimen name="View_CountTimer_bg_radiu">3dp</dimen>
+	
+	<!-- activity_projectdetails尺寸      fs -->
+	
+	<!-- 项目详情页公共文字尺寸 -->
+	<dimen name="projectdetails_public_textsize_fourteen">14sp</dimen>
+	<dimen name="projectdetails_public_textsize_sixteen">16sp</dimen>
+	<dimen name="projectdetails_public_textsize_eighteen">18sp</dimen>
+	<dimen name="projectdetails_public_textsize_twenty">20sp</dimen>
+	
+	<!-- 项目详情页公共距离尺寸 -->
+	<dimen name="projectdetails_public_marginLeft">15dp</dimen>
+	<dimen name="projectdetails_public_marginRight">15dp</dimen>
+	<dimen name="projectdetails_public_imagebotton_oneline">0.5dp</dimen>
+	
+	
+	<dimen name="item_activity_projectdetails_title_paddingleft">6dp</dimen>
+	<dimen name="item_activity_projectdetails_title_buttonmarginLeft">15dp</dimen>
+	
+	<dimen name="item_activity_projectdetails_webview_height">190dp</dimen>
+	<dimen name="item_activity_projectdetails_projecttitle_paddingtop">12dp</dimen>
+	<dimen name="item_activity_projectdetails_oneword_margintop">9dp</dimen>
+	<dimen name="item_activity_projectdetails_desc_paddingtop">12dp</dimen>
+	<dimen name="item_activity_projectdetails_desc_paddingbotton">16dp</dimen>
+	<dimen name="item_activity_projectdetails_address_paddingbotton">16dp</dimen>
+	<dimen name="item_activity_projectdetails_location_drawablePadding">4dp</dimen>
+	<dimen name="item_activity_projectdetails_assortment_marginLeft">12dp</dimen>
+	<dimen name="item_activity_projectdetails_assortment_drawablePadding">4dp</dimen>
+	<dimen name="item_activity_projectdetails_progress_margintop">16dp</dimen>
+    <dimen name="item_activity_projectdetails_financingdetails_margintop">18dp</dimen>
+    <dimen name="item_activity_projectdetails_remainingtime_margintop">7dp</dimen>
+    <dimen name="item_activity_projectdetails_oneline_paddingbotton">16dp</dimen>
+    <dimen name="item_activity_projectdetails_click_item_height">44dp</dimen>
+    <dimen name="item_activity_projectdetails_imageview_background_height">12dp</dimen>
+    <dimen name="item_activity_projectdetails_rl_subscrip_height">49dp</dimen>
+    <dimen name="item_activity_projectdetails_bt_meet_marginLeft">21dp</dimen>
+    <dimen name="item_activity_projectdetails_bt_subscrip_width">190dp</dimen>
+    <dimen name="item_activity_projectdetails_bt_subscrip_height">36dp</dimen>
+    <dimen name="item_activity_projectdetails_bt_meet_marginRight">21dp</dimen>
+    
+    
+    
+    <!-- 认购份数页距离尺寸 -->
+    <dimen name="projectdetails_subscrip_imageview_height">192dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_title_marginTop">9dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_oneword_marginTop">5dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_sponsor_marginTop">7dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_sponsor_paddingBottom">7dp</dimen>
+    <dimen name="projectdetails_subscrip_item_height">44dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_phone_marginRight">12dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_affirm_paddingTop">15dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_count_paddingTop">12dp</dimen>
+    <dimen name="projectdetails_subscrip_tv_count_paddingBottom">12dp</dimen>
+    <dimen name="projectdetails_subscrip_background_height">12dp</dimen>
+     <dimen name="projectdetails_subscrip_et_count_width">90dp</dimen>
+     <dimen name="projectdetails_subscrip_et_count_height">33dp</dimen>
+     <dimen name="projectdetails_subscrip_bt_pay_height">39dp</dimen>
+     <dimen name="projectdetails_subscrip_bt_pay_maginTop">24dp</dimen>
+     
+     <!-- 已有店铺概况距离尺寸 -->
+     <dimen name="projectdetails_shopdetail_radiobotton_height">29dp</dimen>
+     <dimen name="projectdetails_shopdetail_item_height">44dp</dimen>
+     
+     <!-- 融资互动评论页距离尺寸 -->
+     <dimen name="projectdetails_comment_rl_height">49dp</dimen>
+     <dimen name="projectdetails_comment_et_width">255dp</dimen>
+     <dimen name="projectdetails_comment_et_height">36dp</dimen>
+     <dimen name="projectdetails_comment_bt_width">60dp</dimen>
+     <dimen name="projectdetails_comment_bt_height">36dp</dimen>
+     
+     <!-- 风险点评页面距离尺寸 -->
+     <dimen name="projectdetails_risk_sc_paddingbotton">49dp</dimen>
+     <dimen name="projectdetails_risk_text_margintop">16dp</dimen>
+     <dimen name="projectdetails_risk_text_lineSpacingExtra">10dp</dimen>
+     
+     <!-- 风险告知页面距离尺寸 -->
+     <dimen name="projectdetails_riskinfrom_ll_margintop">16dp</dimen>
+     <dimen name="projectdetails_riskinfrom_text_margintop">10dp</dimen>
+     <dimen name="projectdetails_riskinfrom_sc_height">360dp</dimen>
+     <dimen name="projectdetails_riskinfrom_rl_margintop">47dp</dimen>
+     <dimen name="projectdetails_riskinfrom_bt_width">160dp</dimen>
+     <dimen name="projectdetails_riskinfrom_bt_height">39dp</dimen>
+     <dimen name="projectdetails_riskinfrom_bt_marginleft">10dp</dimen>
+     
+     <!-- 预算与退出机制距离 -->
+     <dimen name="projectdetails_budget_item_height">90dp</dimen>
+     <dimen name="projectdetails_budget_marginleft">1dp</dimen>
+     <dimen name="projectdetails_budget_paddingbottom">15dp</dimen>
+     
+     <!-- 计算器页面 -->
+     <dimen name="projectdetails_calculate_tv_marginleft">27dp</dimen>
+     <dimen name="projectdetails_calculate_et_height">33dp</dimen>
+      <dimen name="projectdetails_calculate_et_marginbotton">6dp</dimen>
+      <dimen name="projectdetails_calculate_et_margintop">6dp</dimen>
+      <dimen name="projectdetails_calculate_element_marginright">24dp</dimen>
+      
+      <!-- 约谈界面 -->
+      <dimen name="projectdetails_meet_rl_padding">15dp</dimen>
+      <dimen name="projectdetails_meet_et_padding">15dp</dimen>
+      <dimen name="projectdetails_meet_et_margintop">30dp</dimen>
+      <dimen name="projectdetails_meet_tv_margintop">15dp</dimen>
+</resources>
